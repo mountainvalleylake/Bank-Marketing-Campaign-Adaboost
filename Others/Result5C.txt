@@ -1,0 +1,25 @@
+Classifier = 5
+Fold = 5
+Fold  0
+weighted sum 0.024097298516060354
+Fscore  0.4558040468583599
+Fold  1
+weighted sum -0.6513498980543934
+Fscore  0.06570841889117043
+Fold  2
+weighted sum -0.26613853426977113
+Fscore  0.12651030561478324
+Fold  3
+weighted sum -0.3376322448003881
+Fscore  0.49398556535685656
+Fold  4
+weighted sum -0.09486649295742762
+Fscore  0.42111436950146625
+Fold = 10
+Fold  0
+weighted sum 0.11359938151246773
+Fscore  0.48020434227330777
+Fold  1
+weighted sum -0.6122882303741367
+Handling run-time error: float division by zero
+Fscore nan
